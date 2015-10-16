@@ -29,10 +29,10 @@ To analyze n-gram frequencies, the following preprocessing steps were performed:
 
 We want a heuristic that more accurately estimates the number of times we might expect to see word w in a new unseen context. The _Kneser-Ney_ intuition is to base our estimate on the number or different contexts word w has appeared in([ Huang, X. & Deng, L. (2010). An Overview of Modern Speech Recognition.](http://research.microsoft.com/pubs/118769/Book-Chap-HuangDeng2010.pdf)).
 
-![equation]P_{\mathit{KN}}(w_i \mid w_{i-1}) = \dfrac{\max(c(w_{i-1} w_i) - \delta, 0)}{\sum_{w'} c(w_{i-1} w')} + \lambda \dfrac{\left| \{ w_{i-1} : c(w_{i-1}, w_i) > 0 \} \right|}{\left| \{ w_{j-1} : c(w_{j-1},w_j) > 0\} \right|}
+\[P_{\mathit{KN}}(w_i \mid w_{i-1}) = \dfrac{\max(c(w_{i-1} w_i) - \delta, 0)}{\sum_{w'} c(w_{i-1} w')} + \lambda \dfrac{\left| \{ w_{i-1} : c(w_{i-1}, w_i) > 0 \} \right|}{\left| \{ w_{j-1} : c(w_{j-1},w_j) > 0\} \right|}\]
 
 
-where ![equation]\lambda(w_{i-1}) = \dfrac{\delta}{c(w_{i-1})} \left| \{w' : c(w_{i-1}, w') > 0\} \right|$$
+where $$\lambda(w_{i-1}) = \dfrac{\delta}{c(w_{i-1})} \left| \{w' : c(w_{i-1}, w') > 0\} \right|$$
 
 ========================================================
 _Links and references_
