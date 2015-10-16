@@ -24,12 +24,16 @@ To analyze n-gram frequencies, the following preprocessing steps were performed:
 
 How the app works:
 ========================================================
-> Enter Partial Phrase in Text Box
+```
+_Enter Partial Phrase in Text Box_
 ![alt text](./images/phrase.PNG)
+```
 
-__Submit Server Request__
+_Submit Server Request_
 ![alt text](./images/next.PNG) 
-> Complete The Phrase
-![alt text](./images/treeMap.PNG)
 
+```
+_Complete The Phrase_
+![alt text](./images/treeMap.PNG)
+```
 
