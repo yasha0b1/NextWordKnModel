@@ -1,13 +1,15 @@
 Next Word Prediction
 ========================================================
-author: Jacob Govshteyn
+- author: Jacob Govshteyn
 
-date: Aug 2015
-
-
+- date: Aug 2015
 
 - [**A Word Predictor Shiny App**](https://jacob-govshteyn.shinyapps.io/NextWordKnModel)  
 
+Exploratory analysis
+========================================================
+
+- [**Social Media Training Data Deep-Dive**] (http://rpubs.com/yasha0b1/SocialMediaTrainingDataDeepDive)
 
 App description
 ========================================================
