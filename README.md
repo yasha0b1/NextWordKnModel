@@ -6,7 +6,7 @@ font-family: 'Risque'
 date: Aug 2015
 transition: rotate
 
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 [A word prediction app ](https://jacob-govshteyn.shinyapps.io/myApp)
 
  Swiftkey capstone project.
