@@ -1,15 +1,8 @@
-Next Word Prediction
-========================================================
-author: Jacob Govshteyn
-font-import: http://fonts.googleapis.com/css?family=Risque
-font-family: 'Risque'
-date: Aug 2015
-transition: rotate
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<script type="text/javascript" src="http://www.math.union.edu/locate/Cervone/transfer/mathjax/mathjax-in-github.user.js"></script>
 [A word prediction app ](https://jacob-govshteyn.shinyapps.io/myApp)
 
- Swiftkey capstone project.
+
 
 
 App description
