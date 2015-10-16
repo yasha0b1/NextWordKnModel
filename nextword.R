@@ -1,16 +1,5 @@
-## Predict next word based on previously computed ngram csvs
 
-## ----------
-# This script assumes that I have CSV files containing n-grams for n=2:5.
-# The structure of the resulting dataframe should be:
-# <freq> <word1> <word2> <word3> for the 3-gram, and so on.
-
-# The script takes a sentence, match the last 5/4/3/2 words of the
-# sentence to the appropriate ngrams, and predicts the most likely
-# next word based on a score derived from word frequencies.
-## ----------
-
-## Load in ngrams
+## Load in data 
 library(googleVis)
 library("data.table")
 library("RSQLite")
