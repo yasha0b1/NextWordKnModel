@@ -25,12 +25,11 @@ To analyze n-gram frequencies, the following preprocessing steps were performed:
 How the app works:
 ========================================================
 > Enter Partial Phrase in Text Box
-![alt text](phrase.PNG)
+![alt text](./images/phrase.PNG)
 
 __Submit Server Request__
-![alt text](next.PNG) 
+![alt text](./images/next.PNG) 
 > Complete The Phrase
-![alt text](treeMap.PNG)
+![alt text](./images/treeMap.PNG)
 
 
-- Word Predictor [Shiny app](https://jacob-govshteyn.shinyapps.io/NextWordKnModel)  
