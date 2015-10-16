@@ -27,6 +27,8 @@ We want a heuristic that more accurately estimates the number of times we might 
 
 where $$\lambda(w_{i-1}) = \dfrac{\delta}{c(w_{i-1})} \left| \{w' : c(w_{i-1}, w') > 0\} \right|$$
 
+this is new sum exp (![][\sum_{k=0}^{n}2^k])in remote.
+
 ========================================================
 _Links and references_
  
