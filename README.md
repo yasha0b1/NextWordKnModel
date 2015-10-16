@@ -5,7 +5,7 @@ date: Aug 2015
 
 
 
-- [*Word Predictor Shiny app*](https://jacob-govshteyn.shinyapps.io/NextWordKnModel)  
+- [**A Word Predictor Shiny App**](https://jacob-govshteyn.shinyapps.io/NextWordKnModel)  
 
 
 App description
